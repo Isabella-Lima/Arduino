@@ -14,5 +14,6 @@ Serial.println ("Vaga Ocupada");
 delay(1000);
 }
 else {
-Serial.println ("Vaga Livre);
+Serial.println ("Vaga Livre");
+  delay(1000);
 }
